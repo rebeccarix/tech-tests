@@ -1,0 +1,6 @@
+@ScanEvent_HostAddress = http://localhost:5263
+
+GET {{ScanEvent_HostAddress}}/scanevent/
+Accept: application/json
+
+###
